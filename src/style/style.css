@@ -1,0 +1,19 @@
+/* Dark theme styles */
+[data-theme="dark"] {
+  background-color: #1a1a1a;
+  color: #ffffff;
+}
+
+[data-theme="dark"] a {
+  color: #6cb6ff;
+}
+
+/* Light theme styles */
+[data-theme="light"] {
+  background-color: #ffffff;
+  color: #333333;
+}
+
+[data-theme="light"] a {
+  color: #4285f4;
+}
