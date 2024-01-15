@@ -53,6 +53,7 @@ import gift from "./projects/gift.jpeg";
 import library from "./projects/library.jpeg";
 import openai from "./projects/openai.jpeg";
 import portfolio from "./projects/portfolio.jpeg";
+import fotofinder from "./projects/fotofinder.jpeg";
 
 export {
   bwmap,
@@ -95,6 +96,7 @@ export {
   library,
   openai,
   portfolio,
+  fotofinder,
   linamar,
   tcs,
   apisero,

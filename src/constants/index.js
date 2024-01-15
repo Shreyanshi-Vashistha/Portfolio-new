@@ -23,6 +23,7 @@ import {
   library,
   openai,
   portfolio,
+  fotofinder,
   linamar,
   tcs,
   apisero,
@@ -165,12 +166,13 @@ const experiences = [
 const projects = [
   {
     id: "project-1",
-    name: "HomeWise",
-    description: "A realtor website where you can buy or sell properties",
-    image: homewise,
-    repo: "https://github.com/Shreyanshi-Vashistha/RealEstate_BackEnd",
-    // demo: "https://github.com/Shreyanshi-Vashistha/RealEstate_FrontEnd",
+    name: "FotoFinder",
+    description: "Search Images based on the text entered",
+    image: fotofinder,
+    repo: "https://github.com/Shreyanshi-Vashistha/FotoFinder",
+    demo: "https://fotofinder.onrender.com/",
   },
+
   {
     id: "project-2",
     name: "AI Image Generator",
@@ -198,9 +200,16 @@ const projects = [
     id: "project-5",
     name: "Gift Shop Kiosk",
     description: "A giftshop kiosk website where you can buy gifts.",
-
     image: gift,
     repo: "https://github.com/Shreyanshi-Vashistha/GiftShop-Kiosk",
+  },
+  {
+    id: "project-6",
+    name: "HomeWise",
+    description: "A realtor website where you can buy or sell properties",
+    image: homewise,
+    repo: "https://github.com/Shreyanshi-Vashistha/RealEstate_BackEnd",
+    // demo: "https://github.com/Shreyanshi-Vashistha/RealEstate_FrontEnd",
   },
 ];
 
