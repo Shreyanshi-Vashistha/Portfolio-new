@@ -1,1 +1,3 @@
-# Portfolio-new
+# Shreyanshi Vashistha Portfolio
+
+Technology used: React
